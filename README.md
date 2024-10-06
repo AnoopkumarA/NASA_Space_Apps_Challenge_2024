@@ -28,10 +28,25 @@ This project is a 3D visualization of the solar system built using modern web te
    - Once the server is running, open your browser and visit the generated URL (usually `http://localhost:3000`).
    - You can also `Ctrl + left-click` on the address shown in the command line to open it directly in your browser.
 
+
+# Solar Planets Pages
+
+This project is a 3D representation of the Solar System. Follow the steps below to set up and run the project on your local machine.
+
+## Steps to Run the Code
+
+### 1. Download the Repository
+- Clone or download the repository to your local machine.
+
+### 2. Install Parcel
+Parcel is the bundler used for this project. You can install it globally using npm:
+
+npm install parcel -g
+
+
 ## License
 
 This project is licensed under the MIT License.
 
 ---
 
-*“Do not go where the path may lead, go instead where there is no path and leave a trail.”* – Ralph Waldo Emerson
