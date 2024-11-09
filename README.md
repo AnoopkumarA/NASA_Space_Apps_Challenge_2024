@@ -43,6 +43,11 @@ Parcel is the bundler used for this project. You can install it globally using n
 
 npm install parcel -g
 
+## Collaborators
+Anoop Kumar A
+Christy Maria Sebastian
+Yathukrishnan T.U
+
 
 ## License
 
